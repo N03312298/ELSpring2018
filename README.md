@@ -22,3 +22,8 @@ As for the criteria requested:
 - The vehcile can retrace it's path once the target is reached
 - The vehicle construction is clean
 - The code is organized and commented
+
+% Contribution
+Sylum - 40%
+Chris - 35%
+Max - 25%
