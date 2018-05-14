@@ -8,7 +8,7 @@ Once these are connnected to the board the robot should traverse the maze and re
 You can place the car back in the maze a second time, and it will use the correct path.
 The engineering of the chassis included two wheels and half of a ping pong ball that drags along the ground behind it.
 We attached the bread board with a ribbon cable attached to the raspberry pi behind it.
-We also attached a weight to the front of the car.
+We also attached a weight to the front of the car to keep the front wheels on the ground.
 We used a 9-volt d-battery to power the board and an external power supply to power the raspberry pi.
 After the robot makes a U-turn, respond to the prompt in the code to continue.
 The biggest problem we encountered was with the motors and finding a consistent power supply.
