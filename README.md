@@ -26,4 +26,4 @@ As for the criteria requested:
 % Contribution
 - Sylum 40%
 - Chris 35%
-- Max - 25%
+- Max 25%
