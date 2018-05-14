@@ -18,7 +18,7 @@ As for the criteria requested:
 - Can retrace it's path at the end of the line
 - The target is definded by a string that consists of 1s and 0s that will tell it what type of line it has encountered
 - The vehicle can find it's target
-- The algortithm used to find the target is in code section of our repositories
+- The algortithm used to find the target is in code section of our repositories as sensor.py
 - The vehcile can retrace it's path once the target is reached
 - The vehicle construction is clean
 - The code is organized and commented
