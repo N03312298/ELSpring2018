@@ -24,6 +24,6 @@ As for the criteria requested:
 - The code is organized and commented
 
 % Contribution
-Sylum - 40%
-Chris - 35%
-Max - 25%
+- Sylum 40%
+- Chris - 35%
+- Max - 25%
